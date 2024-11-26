@@ -10,23 +10,15 @@
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Data Tools**: Excel, Power BI, Jupyter Notebook  
 - **Database**: MySQL  
-- **Cloud**: AWS (Basics)
 - 
-## 📂 Featured Projects
-- [**Solar Power Dashboard**](#): Interactive data analysis and visualization using Streamlit.
-- [**Spotify Data Analytics Dashboard**](#): Interactive data analysis and visualization using PowerBI.
-- [**Sales Performance Dashboard**](#): 
-   - *Tools*: PowerBI,SQL,Python  
-   - *Description*: Built an interactive dashboard to track sales trends and regional performance.
 
 ## 🌐 Connect with Me
-- 📧 [Email](mailto:gauravlakshakar581@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-lakshakar/)
-![Profile Views](https://komarev.com/ghpvc/?username=gauravlakshakar&color=brightgreen)
+- 📧 [Email](mailto:kayush058@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aayush-vishwakarma1/)
 
 </p>
 <div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 15px;">
-  <h1 style="color: #ffffff;">Hi 🙋‍♂️, I'm <span style="color: #4caf50;">Gaurav Lakshakar👨‍💻</span></h1>
+  <h1 style="color: #ffffff;">Hi 🙋‍♂️, I'm <span style="color: #4caf50;">Aayush Vishwakarma👨‍💻</span></h1>
   <h3 style="color: #ffffff;">🏆Aspiring Data Analyst🪶</h3>
 </div>
 <div align="center">
@@ -73,31 +65,11 @@ Here are the technologies I work with:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## Connect with me  
-<a href="https://github.com/GauravLakshakar" target="_blank">
+<a href=(https://github.com/AayushVishwakarma8) target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/GauravLakh581" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/gaurav-lakshakar/" target="_blank">
+<a href=(https://www.linkedin.com/in/aayush-vishwakarma1/) target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
 
- <div align="center">
-  <h2>🔥 My GitHub Stats</h2>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravLakshakar&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GauravLakshakar&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravLakshakar&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-  </p>
-</div>
-
-  ----
-<div align="center" style="padding: 20px; background-color: #121212; border-radius: 15px;">
-  <h3 style="color: #4caf50;">🌱Thank You for Visiting!🌱</h3>
-</div>
