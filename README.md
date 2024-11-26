@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Aayush Vishwakarma 
 
 <!--
 **AayushVishwakarma8/AayushVishwakarma8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Results-driven data analyst with expertise in Python, SQL, and Power BI. Strong in data cleaning, analysis, and creating insightful visualizations. Effective communicator with a problem-solving mindset and adept at using Generative AI. Quick learner with a knack for adopting new technology stacks.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
