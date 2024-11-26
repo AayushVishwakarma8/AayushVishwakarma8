@@ -10,7 +10,7 @@
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Data Tools**: Excel, Power BI, Jupyter Notebook  
 - **Database**: MySQL  
-- 
+  
 
 ## 🌐 Connect with Me
 - 📧 [Email](mailto:kayush058@gmail.com)
