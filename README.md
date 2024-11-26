@@ -1,16 +1,20 @@
 ## Hi there 👋 I am Aayush Vishwakarma 
 
 <!--
-**AayushVishwakarma8/AayushVishwakarma8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AayushVishwakarma8/AayushVishwakarma8** ## 🛠️ Skills & Expertise  
+- **Data Analysis**: Skilled in data cleaning, exploratory analysis, and trend identification.  
+- **Programming & Tools**: Proficient in Python, SQL, and Power BI for robust analysis and visualization.  
+- **Generative AI**: Adept at leveraging AI tools to enhance workflows and derive deeper insights.  
+- **Problem-Solving**: Strong analytical mindset with a focus on delivering data-driven solutions.  
+- **Quick Learner**: Continuously adopting new technologies and staying updated with industry trends.  
 
-Results-driven data analyst with expertise in Python, SQL, and Power BI. Strong in data cleaning, analysis, and creating insightful visualizations. Effective communicator with a problem-solving mindset and adept at using Generative AI. Quick learner with a knack for adopting new technology stacks.
+## 🌱 What I’m Currently Exploring  
+- Advanced data modeling techniques and machine learning frameworks.  
+- Generative AI applications in data storytelling.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌐 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [Portfolio](https://your-portfolio-link.com)  
+
+Let’s collaborate to create meaningful insights from data! 🚀
 -->
